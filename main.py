@@ -51,7 +51,6 @@ def generar_tabla(num_datos):
       tablefmt="simple")
 
   return tabla, datos_tabla
-"""  """
 
 # Función para generar la gráfica
 def graficar_resultados(datos_tabla):
